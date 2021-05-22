@@ -8,8 +8,9 @@ In India, the e-Sign has been granted legal status by amendments to various laws
 
 
 EDA
+<img src="download.png">
 
-
+<img src="corr.png">
 
 Models implemented:
 Artificial Neural Network
@@ -20,6 +21,7 @@ Xg Boost
 Logistic Regression
 
 Feature Importance
+<img src="feat.png">
 
 
 Observation
