@@ -21,6 +21,7 @@ Xg Boost
 Logistic Regression
 
 Feature Importance
+
 <img src="feat.png">
 
 
