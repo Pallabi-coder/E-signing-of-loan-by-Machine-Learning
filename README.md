@@ -13,11 +13,17 @@ EDA
 <img src="corr.png">
 
 Models implemented:
+
 Artificial Neural Network
+
 Random Forest Classifier
+
 Gradient Boosting
+
 Support Vector Machine
+
 Xg Boost
+
 Logistic Regression
 
 Feature Importance
